@@ -1,4 +1,4 @@
-{
+3e123d4648662a7dc6ae9442a187a935025769ee{
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {}
 }adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
